@@ -1,5 +1,4 @@
-# Contains sample projects
+# Jukebox
 
 
-## Jukebox Setup
-* Add some .mp3 files to the songs directory
+Jukebox style app created in JavaScript that allows users to play, pause, and select songs from a list
